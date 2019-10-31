@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI"
+}
+
+body{
+    overflow-x: hidden;
+
+}
+.container{
+    margin: 1rem 0.5rem;
+    padding: 1rem;
+    background-color: rgba(191, 191, 191, 0.3);
+}
+
+
+header h1{
+    margin: 1rem;
+    font-size: 3rem;
+}
+
+figure img{
+    width: 100%;
+
+}
+.showcase{
+    padding: 1rem 3rem;
+    background-color: white;
+    text-align: center;
+}
+.showcase p{
+    padding-top: 0.75rem;
+}
+.info h3{
+    padding:2rem 0;
+}
+.center{
+    text-align: center;
+}
+.p1{
+    padding: 1rem;
+}
+.pt{
+    padding-top: 1rem;
+}
+span{
+    font-weight: bolder;
+}
+.info-list{
+    width: 40%;
+    margin: auto;
+}
+li{
+    margin: 1.3rem 0;
+}
+blockquote{
+    font-style: italic;
+}
